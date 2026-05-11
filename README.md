@@ -398,10 +398,3 @@ Timer.set(1000, false, function () {
 
 ---
 
-## Recommended GitHub structure
-
-```text
-shelly-modbus-rtu/
-├── README.md
-└── shelly_modbus_rtu_module.js
-```
